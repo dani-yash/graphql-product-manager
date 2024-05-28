@@ -1,4 +1,4 @@
-# GraphQL Project
+# GraphQL Product Manager
 
 This repository contains a project focused on building a GraphQL API and integrating it with client applications, in our case, managing a library of products The project includes setting up a GraphQL server, create schemas, queries, and mutations, and implement advanced queries and mutations. We manage product information (CRUD operations) via GraphQL queries and mutations, retrieve all products or a specific product by ID and use MongoDB for product data storage and SQLite for category data.
 
@@ -9,7 +9,7 @@ Follow these steps to set up the project locally on your machine:
 1. **Clone the Repository:**
 
 Run the following command to clone the repository: 
-git clone https://github.com/your-username/graphql-project.git
+git clone https://github.com/dani-yash/graphql-product-manager.git
 cd graphql-project
 
 2. **Install Dependencies:**
