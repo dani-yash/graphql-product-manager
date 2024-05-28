@@ -10,7 +10,7 @@ Follow these steps to set up the project locally on your machine:
 
 Run the following command to clone the repository: 
 git clone https://github.com/dani-yash/graphql-product-manager.git
-and cd graphql-project
+and cd graphql-product-manager
 
 2. **Install Dependencies:**
 
